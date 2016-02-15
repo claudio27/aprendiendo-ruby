@@ -1,0 +1,1 @@
+{"mixinTypes":[],"builders":{"configs":{}},"runners":{"configs":{},"default":"system:/ruby/standalone/ruby210"},"description":"Una prueba de ruby","type":"ruby","attributes":{"language":["ruby"]}}
